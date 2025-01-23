@@ -3,6 +3,22 @@
 **Coursela** is an innovative platform designed for teachers, content creators, and experts to monetize their knowledge and skills. With tools for creating and selling digital products like online courses, eBooks, and live coaching sessions, Coursela bridges the gap between expertise and income generation. Here's a detailed preview of its features and functionalities.
 
 ---
+## 🛠️ Technology Stack
+
+This project leverages a modern tech stack to deliver a scalable, secure, and performant platform:
+
+- **ASP.NET with C#**: Powers the backend with robust business logic, security, and scalability, ideal for complex applications.  
+- **SQL Server**: Handles data management with support for complex queries and seamless integration with the backend.  
+- **React with Next.js**: Combines dynamic user interfaces (React) with server-side rendering (Next.js) for improved performance and SEO.  
+- **Tailwind CSS**: A utility-first framework for creating responsive, modern, and consistent designs.  
+- **TypeScript**: Adds type safety and reduces runtime errors for maintainable and reliable frontend and backend code.  
+- **WebSocket & SignalR**: Enables real-time communication for features like live chat and updates, enhancing user engagement.
+
+### Why This Stack?
+This stack was chosen for its ability to build a secure, responsive, and interactive platform that can scale with user demands while maintaining high performance.
+
+
+---
 
 ## 🖼️ Visual Preview
 
